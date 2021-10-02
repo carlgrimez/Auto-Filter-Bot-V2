@@ -52,10 +52,10 @@ Bot will automatically search for your files and give links to that!
     
 ❤<b>Creater :</b> <b><a href="https://t.me/thomas_shelby_Jr">Thomas Shelby</a></b>
 
-💙<b>Language :</b> <code>Python3</code>
+💙<b>Language :</b> <b>Python3</b>
 
-💚<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+💚<b>Library :</b> <b><a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a></b>
 
-💛<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+💛<b>Source Code :</b> <b><a href='https://t.me/nokkiyirunno_ippo_kittum'>Click Here</a></b> 
 
 """
