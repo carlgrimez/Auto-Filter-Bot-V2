@@ -45,12 +45,12 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>@Thomas_Shelby_Jr</b>"""
 
 
     ABOUT_MSG = """😎<b>My Name : Auto Filter Bot V2</b>
     
-❤<b>Creater :</b> <b>@Thomas_Shelby_Jr</b>
+❤<b>Creater :</b> <b><a href="https://t.me/thomas_shelby_Jr">Thomas Shelby</a></b>
 
 💙<b>Language :</b> <code>Python3</code>
 
